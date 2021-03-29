@@ -1,6 +1,6 @@
 # Full Stack Open 2021
 
-This repository contains exercises for the full stack open 2020 course.
+This repository contains exercises for the full stack open 2021 course.
 Each Part is given a separate subdirectory and within them are the respective exercises
 Below are links to the different parts
 * [Part 0](./part-0)
